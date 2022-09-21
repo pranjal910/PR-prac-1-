@@ -1,2 +1,2 @@
-# PR prac 1 
+# PR practical 1
  
